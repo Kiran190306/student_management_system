@@ -1,0 +1,32 @@
+# 🎓 Student Management System
+
+A complete web-based application built using **Flask, HTML, CSS, and Python** to manage student data efficiently.  
+This project demonstrates CRUD operations (Create, Read, Update, Delete) with a clean UI and Flask backend integration.
+
+---
+
+## 🚀 Features
+
+- 🔐 Secure Login and Registration System  
+- 🧾 Add, View, Edit, and Delete Student Records  
+- 💾 SQLite Database Integration with SQLAlchemy ORM  
+- 🎨 Responsive UI using HTML, CSS, and Bootstrap  
+- ⚡ Dynamic Templates using Jinja2  
+- 💬 Flash Messages and Error Handling  
+- 🧠 Clean and Commented Codebase
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | HTML5, CSS3, Bootstrap, JavaScript |
+| **Backend** | Python (Flask Framework) |
+| **Database** | SQLite (SQLAlchemy ORM) |
+| **Server** | Flask Development Server |
+
+---
+
+## 📁 Folder Structure
+

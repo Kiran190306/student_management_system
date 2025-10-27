@@ -1,0 +1,17 @@
+# Python cache and virtual env
+venv/
+__pycache__/
+*.pyc
+
+# Environment and local files
+.env
+instance/
+*.db
+
+# IDE & system files
+.vscode/
+.idea/
+.DS_Store
+
+# Flask cache
+*.log
